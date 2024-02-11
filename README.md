@@ -30,5 +30,8 @@
 #### GitHub
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deep-learning-engineer&show_icons=true&theme=tokyonight)](https://github.com/deep-learning-engineer/github-readme-stats)  
 
+### LeetCode
+[![LeetCode](https://leetcard.jacoblin.cool/EduardGanzha?ext=contest)](https://leetcode.com/EduardGanzha/)
+
 #### Codewars
 [![codewars](https://www.codewars.com/users/Eduard_Ganzha/badges/large)](https://www.codewars.com/users/Eduard_Ganzha) 
