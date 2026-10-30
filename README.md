@@ -28,7 +28,7 @@
 ### My Statistics
 
 #### GitHub
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deep-learning-engineer&show_icons=true&theme=tokyonight)](https://github.com/deep-learning-engineer/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=deep-learning-engineer&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 
 ### LeetCode
 [![LeetCode](https://leetcard.jacoblin.cool/EduardGanzha?ext=contest)](https://leetcode.com/EduardGanzha/)
